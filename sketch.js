@@ -130,7 +130,7 @@ function draw() {
       titleMsg="Game Over!!!"
       img="assets/Dragon.png"
       size="150x150"
-     
+      loseSound.play()
   
     }
     else
@@ -139,7 +139,7 @@ function draw() {
       titleMsg="You Win!!!";
       img="assets/Archer.png"
       size="250x250"
-  
+  winSound.play()
   
       }
     swal(
