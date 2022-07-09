@@ -1,1 +1,1 @@
-# the-dragon-game-6.0
+# dragon-game-1.0
